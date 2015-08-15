@@ -9,7 +9,7 @@ From [Wikipedia](https://en.wikipedia.org/wiki/Harmonograph "Wikipedia entry on 
 ### This shiny application
 
 The application you're looking at now simulated a two-pendulum harmonograph, where each pendulum has two degrees of freedom. 
-That means that we'll have to choose six sets of parameters. For each virtual pendulum, and for each degree of freedom we'll have to set values for
+That means that we'll have to choose four sets of parameters. For each virtual pendulum, and for each degree of freedom we'll have to set values for
 <ul>
 <li>frequency
 <li>damping
@@ -19,4 +19,4 @@ More information on these, and some guidance for settings leading to nice 'harmo
 
 This application was inspired by a blog post ['Beautiful curves'](http://aschinchon.wordpress.com/2014/10/13/beautiful-curves-the-harmonograph/) by 'Ripples', and uses some extra information from [Walking Randomly](http://www.walkingrandomly.com/?p=151)
 
-The code of this application is available from [github](http://github.com/evberghe/harmonograph). 
+The code of this application is available from [github](https://github.com/evberghe/harmonograph). 

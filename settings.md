@@ -12,7 +12,7 @@ The nicest results are obtained when values for the frequency are integers, or v
 Approximate values for the frequency can be set using the sliders; for fine-tuning, you can use the 
 left and right arrow keys (only tested on Ubuntu with Firefox).
 
-Nice examples from [Walking Randomly]("http://www.walkingrandomly.com/?p=151"):  
+Nice examples from [Walking Randomly](http://www.walkingrandomly.com/?p=151):  
 <ul>
 <li>f1=3.001; f2=2; f3=3; f4=2; d1=0.004; d2=0.0065; d3=0.008; d4=0.019; p1=0; p2=0; p3=pi/2; p4=3*pi/2  
 <li>f1=10; f2=3; f3=1; f4=2; d1=0.039; d2=0.006; d3=0; d4=0.0045; p1=0; p2=0; p3=pi/2; p4=0  
