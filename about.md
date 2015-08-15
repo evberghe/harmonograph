@@ -19,4 +19,4 @@ More information on these, and some guidance for settings leading to nice 'harmo
 
 This application was inspired by a blog post ['Beautiful curves'](http://aschinchon.wordpress.com/2014/10/13/beautiful-curves-the-harmonograph/) by 'Ripples', and uses some extra information from [Walking Randomly](http://www.walkingrandomly.com/?p=151)
 
-The code of this application is available from [github](http://github.com/evberghe). 
+The code of this application is available from [github](http://github.com/evberghe/harmonograph). 
