@@ -7,6 +7,7 @@
 
 
 library(shiny)
+library(markdown)
 
 # get user input to define what plot should be plotted
 
